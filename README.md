@@ -1,0 +1,1 @@
+This repository demonstrates a common error in older PHP code: the use of deprecated `mysql_*` functions.  These functions have been removed from PHP 7 and later due to security vulnerabilities and inefficiency. This example shows the flawed code and its corrected version using PDO for secure and efficient database interactions. 
